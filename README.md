@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Kritik Soman
 
-**AI Specialist | ML Engineer**  
 5+ years of applied research experience in Generative AI, NLP, LLMs, and Computer Vision  
 Applying cutting-edge AI to legal, and marketing domains
 
