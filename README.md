@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kritik Soman
 
-6+ years of applied research experience in Generative AI, NLP, LLMs, and Computer Vision  
+6+ years of applied AI/ML experience in Generative AI, NLP, LLMs, and Computer Vision  
 Applying cutting-edge AI to commerce, legal, and marketing domains
 
 ## 📫 Let’s Connect
